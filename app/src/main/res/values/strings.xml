@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroProjeto</string>
+    <string name="IMC">IMC</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+</resources>
